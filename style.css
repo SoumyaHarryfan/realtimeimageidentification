@@ -1,0 +1,36 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px deeppink;
+}
+.heading_div{
+    background: darkgoldenrod;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: darkolivegreen;
+    box-shadow: 5px 5px 5px coral;
+}
+.heading_div2{
+    font-size: 18px;
+}
+.result_para_tag{
+    box-shadow: 5px 5px 5px chartreuse;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: darksalmon;
+    bottom: 0;
+    width: 100%;
+    background-color:dodgerblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid ivory;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px violet;
+    margin-top: 150px;
+}
